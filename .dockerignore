@@ -1,0 +1,10 @@
+.git
+.github
+**/node_modules
+**/vendor
+backend/var
+backend/storage/imports/*
+backend/storage/images/*
+frontend/dist
+frontend/.angular
+.env

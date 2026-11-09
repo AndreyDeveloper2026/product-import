@@ -1,0 +1,14 @@
+.env
+/backend/vendor/
+/backend/var/*
+!/backend/var/.gitkeep
+/backend/storage/imports/*
+/backend/storage/images/*
+!/backend/storage/*/.gitkeep
+/backend/.phpunit.result.cache
+/backend/.php-cs-fixer.cache
+/frontend/node_modules/
+/frontend/dist/
+/frontend/.angular/
+/frontend/test-results/
+/frontend/playwright-report/
